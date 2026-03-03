@@ -1,0 +1,6505 @@
+[
+  {
+    "city_town": "Acton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04001"
+  },
+  {
+    "city_town": "Albion",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04910"
+  },
+  {
+    "city_town": "Alfred",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04002"
+  },
+  {
+    "city_town": "Alton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04468"
+  },
+  {
+    "city_town": "Arrowsic",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04530"
+  },
+  {
+    "city_town": "Arundel",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04046"
+  },
+  {
+    "city_town": "Athens",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04912"
+  },
+  {
+    "city_town": "Auburn",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04210"
+  },
+  {
+    "city_town": "Auburn",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04211"
+  },
+  {
+    "city_town": "Auburn",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04212"
+  },
+  {
+    "city_town": "Augusta",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04330"
+  },
+  {
+    "city_town": "Augusta",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04332"
+  },
+  {
+    "city_town": "Augusta",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04333"
+  },
+  {
+    "city_town": "Augusta",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04336"
+  },
+  {
+    "city_town": "Augusta",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04338"
+  },
+  {
+    "city_town": "Bailey Island",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04003"
+  },
+  {
+    "city_town": "Bangor",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04401"
+  },
+  {
+    "city_town": "Bangor",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04402"
+  },
+  {
+    "city_town": "Bar Harbor",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04609"
+  },
+  {
+    "city_town": "Bar Mills",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04004"
+  },
+  {
+    "city_town": "Bath",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04530"
+  },
+  {
+    "city_town": "Belfast",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04915"
+  },
+  {
+    "city_town": "Belgrade",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04917"
+  },
+  {
+    "city_town": "Belgrade Lakes",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04918"
+  },
+  {
+    "city_town": "Belmont",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04952"
+  },
+  {
+    "city_town": "Benton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04901"
+  },
+  {
+    "city_town": "Berwick",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "03901"
+  },
+  {
+    "city_town": "Biddeford",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04005"
+  },
+  {
+    "city_town": "Biddeford",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04007"
+  },
+  {
+    "city_town": "Biddeford Pool",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04006"
+  },
+  {
+    "city_town": "Blue Hill",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04614"
+  },
+  {
+    "city_town": "Boothbay",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04537"
+  },
+  {
+    "city_town": "Boothbay",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04549"
+  },
+  {
+    "city_town": "Boothbay Harbour",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04538"
+  },
+  {
+    "city_town": "Boothbay Harbour",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04570"
+  },
+  {
+    "city_town": "Bowdoin",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04287"
+  },
+  {
+    "city_town": "Bowdoinham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04008"
+  },
+  {
+    "city_town": "Bradford",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04410"
+  },
+  {
+    "city_town": "Bradley",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04411"
+  },
+  {
+    "city_town": "Brewer",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04412"
+  },
+  {
+    "city_town": "Bridgton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04009"
+  },
+  {
+    "city_town": "Bristol",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04539"
+  },
+  {
+    "city_town": "Bristol",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04539"
+  },
+  {
+    "city_town": "Brooks",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04921"
+  },
+  {
+    "city_town": "Brownfield",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04010"
+  },
+  {
+    "city_town": "Brunswick",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04011"
+  },
+  {
+    "city_town": "Bucksport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04416"
+  },
+  {
+    "city_town": "Burnham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04922"
+  },
+  {
+    "city_town": "Buxton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04093"
+  },
+  {
+    "city_town": "Camden",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04843"
+  },
+  {
+    "city_town": "Camden",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04847"
+  },
+  {
+    "city_town": "Canaan",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04924"
+  },
+  {
+    "city_town": "Cape Elizabeth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04107"
+  },
+  {
+    "city_town": "Cape Porpoise",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04014"
+  },
+  {
+    "city_town": "Carmel",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04419"
+  },
+  {
+    "city_town": "Casco",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04015"
+  },
+  {
+    "city_town": "Charleston",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04422"
+  },
+  {
+    "city_town": "Chelsea",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04330"
+  },
+  {
+    "city_town": "China",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04358"
+  },
+  {
+    "city_town": "China",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04926"
+  },
+  {
+    "city_town": "Clifton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04428"
+  },
+  {
+    "city_town": "Clinton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04927"
+  },
+  {
+    "city_town": "Corinna",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04928"
+  },
+  {
+    "city_town": "Corinth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04427"
+  },
+  {
+    "city_town": "Cornish",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04020"
+  },
+  {
+    "city_town": "Cornville",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04976"
+  },
+  {
+    "city_town": "Cumberland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04021"
+  },
+  {
+    "city_town": "Cundy'S Harbor",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04011"
+  },
+  {
+    "city_town": "Damariscotta",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04543"
+  },
+  {
+    "city_town": "Danville",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04223"
+  },
+  {
+    "city_town": "Dayton",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04005"
+  },
+  {
+    "city_town": "Dedham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04429"
+  },
+  {
+    "city_town": "Denmark",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04022"
+  },
+  {
+    "city_town": "Detroit",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04929"
+  },
+  {
+    "city_town": "Dexter",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04930"
+  },
+  {
+    "city_town": "Dixmont",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04932"
+  },
+  {
+    "city_town": "Dover-Foxcroft",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04426"
+  },
+  {
+    "city_town": "Durham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04222"
+  },
+  {
+    "city_town": "East Boothbay",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04544"
+  },
+  {
+    "city_town": "East Corinth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04427"
+  },
+  {
+    "city_town": "East Holden",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04429"
+  },
+  {
+    "city_town": "East Newport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04933"
+  },
+  {
+    "city_town": "East Orland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04431"
+  },
+  {
+    "city_town": "East Vassalboro",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04935"
+  },
+  {
+    "city_town": "East Waterboro",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04030"
+  },
+  {
+    "city_town": "East Winthrop",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04343"
+  },
+  {
+    "city_town": "Eastbrook",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04634"
+  },
+  {
+    "city_town": "Eddington",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04428"
+  },
+  {
+    "city_town": "Edgecomb",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04556"
+  },
+  {
+    "city_town": "Eliot",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "03903"
+  },
+  {
+    "city_town": "Ellsworth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04605"
+  },
+  {
+    "city_town": "Etna",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04434"
+  },
+  {
+    "city_town": "Exeter",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04435"
+  },
+  {
+    "city_town": "Fairfield",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04937"
+  },
+  {
+    "city_town": "Falmouth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04105"
+  },
+  {
+    "city_town": "Falmouth Foreside",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04105"
+  },
+  {
+    "city_town": "Farmingdale",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04344"
+  },
+  {
+    "city_town": "Farmington",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04938"
+  },
+  {
+    "city_town": "Farmington",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04940"
+  },
+  {
+    "city_town": "Frankfort",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04438"
+  },
+  {
+    "city_town": "Franklin",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04634"
+  },
+  {
+    "city_town": "Freeport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04032"
+  },
+  {
+    "city_town": "Freeport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04033"
+  },
+  {
+    "city_town": "Freeport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04034"
+  },
+  {
+    "city_town": "Fryeberg",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04037"
+  },
+  {
+    "city_town": "Gardiner",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04345"
+  },
+  {
+    "city_town": "Garland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04939"
+  },
+  {
+    "city_town": "Georgetown",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04548"
+  },
+  {
+    "city_town": "Glenburn",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04401"
+  },
+  {
+    "city_town": "Gorham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04038"
+  },
+  {
+    "city_town": "Gouldsboro",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04607"
+  },
+  {
+    "city_town": "Gray",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04039"
+  },
+  {
+    "city_town": "Hallowell",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04347"
+  },
+  {
+    "city_town": "Hampden",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04444"
+  },
+  {
+    "city_town": "Hancock",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04640"
+  },
+  {
+    "city_town": "Harpswell",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04079"
+  },
+  {
+    "city_town": "Harrison",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04040"
+  },
+  {
+    "city_town": "Hartland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04943"
+  },
+  {
+    "city_town": "Hartland",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04943"
+  },
+  {
+    "city_town": "Hermon",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04401"
+  },
+  {
+    "city_town": "Hinckley",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04944"
+  },
+  {
+    "city_town": "Hiram",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04041"
+  },
+  {
+    "city_town": "Holden",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04429"
+  },
+  {
+    "city_town": "Hollis",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04042"
+  },
+  {
+    "city_town": "Hudson",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04449"
+  },
+  {
+    "city_town": "Hulls Cove",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04644"
+  },
+  {
+    "city_town": "Kenduskeag",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04450"
+  },
+  {
+    "city_town": "Kennebunk",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04043"
+  },
+  {
+    "city_town": "Kennebunkport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04046"
+  },
+  {
+    "city_town": "Kezar Falls",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04047"
+  },
+  {
+    "city_town": "Kittery",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "03904"
+  },
+  {
+    "city_town": "Lamoine",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04605"
+  },
+  {
+    "city_town": "Lebanon",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04027"
+  },
+  {
+    "city_town": "Levant",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04456"
+  },
+  {
+    "city_town": "Lewiston",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04240"
+  },
+  {
+    "city_town": "Lewiston",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04241"
+  },
+  {
+    "city_town": "Lewiston",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04243"
+  },
+  {
+    "city_town": "Liberty",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04949"
+  },
+  {
+    "city_town": "Limerick",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04048"
+  },
+  {
+    "city_town": "Limington",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04049"
+  },
+  {
+    "city_town": "Lincolnville",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04849"
+  },
+  {
+    "city_town": "Lincolnville",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04850"
+  },
+  {
+    "city_town": "Lisbon",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04250"
+  },
+  {
+    "city_town": "Lisbon",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04252"
+  },
+  {
+    "city_town": "Lisbon Falls",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04252"
+  },
+  {
+    "city_town": "Lyman",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04002"
+  },
+  {
+    "city_town": "Madison",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04950"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04351"
+  },
+  {
+    "city_town": "Mechanic Falls",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04256"
+  },
+  {
+    "city_town": "Milford",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04461"
+  },
+  {
+    "city_town": "Minot",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04258"
+  },
+  {
+    "city_town": "Monroe",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04951"
+  },
+  {
+    "city_town": "Mont Vernon",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04352"
+  },
+  {
+    "city_town": "Montville",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04941"
+  },
+  {
+    "city_town": "Moody",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04054"
+  },
+  {
+    "city_town": "Morrill",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04952"
+  },
+  {
+    "city_town": "Mount Dessert",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04660"
+  },
+  {
+    "city_town": "Naples",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04055"
+  },
+  {
+    "city_town": "New Gloucester",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04260"
+  },
+  {
+    "city_town": "New Harbor",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04554"
+  },
+  {
+    "city_town": "New Harbor",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04558"
+  },
+  {
+    "city_town": "New Sharon",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04955"
+  },
+  {
+    "city_town": "Newburgh",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04444"
+  },
+  {
+    "city_town": "Newcastle",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04553"
+  },
+  {
+    "city_town": "Newfield",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04056"
+  },
+  {
+    "city_town": "Newport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04953"
+  },
+  {
+    "city_town": "Norridgewock",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04957"
+  },
+  {
+    "city_town": "North Berwick",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "03906"
+  },
+  {
+    "city_town": "North Vassalboro",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04962"
+  },
+  {
+    "city_town": "North Winslow",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04091"
+  },
+  {
+    "city_town": "North Yarmouth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04097"
+  },
+  {
+    "city_town": "Northeast Harbor",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04662"
+  },
+  {
+    "city_town": "Northport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04849"
+  },
+  {
+    "city_town": "Oakfield",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04763"
+  },
+  {
+    "city_town": "Oakland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04963"
+  },
+  {
+    "city_town": "Ocean Park",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04063"
+  },
+  {
+    "city_town": "Ogunquit",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "03907"
+  },
+  {
+    "city_town": "Old Orchard Beach",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04064"
+  },
+  {
+    "city_town": "Old Town",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04468"
+  },
+  {
+    "city_town": "Orland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04472"
+  },
+  {
+    "city_town": "Orono",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04469"
+  },
+  {
+    "city_town": "Orono",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04473"
+  },
+  {
+    "city_town": "Orrington",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04474"
+  },
+  {
+    "city_town": "Palermo",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04354"
+  },
+  {
+    "city_town": "Palmyra",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04965"
+  },
+  {
+    "city_town": "Parsonsfield",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04047"
+  },
+  {
+    "city_town": "Pejepscot",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04086"
+  },
+  {
+    "city_town": "Penobscot",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04476"
+  },
+  {
+    "city_town": "Phippsburg",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04562"
+  },
+  {
+    "city_town": "Pittsfield",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04967"
+  },
+  {
+    "city_town": "Plymouth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04969"
+  },
+  {
+    "city_town": "Poland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04274"
+  },
+  {
+    "city_town": "Porter",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04068"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04101"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04102"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04103"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04104"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04105"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04106"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04107"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04108"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04109"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04110"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04112"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04116"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04122"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04123"
+  },
+  {
+    "city_town": "Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04124"
+  },
+  {
+    "city_town": "Pownal",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04069"
+  },
+  {
+    "city_town": "Prospect",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04981"
+  },
+  {
+    "city_town": "Randolph",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04346"
+  },
+  {
+    "city_town": "Raymond",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04071"
+  },
+  {
+    "city_town": "Rockland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04841"
+  },
+  {
+    "city_town": "Rockport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04856"
+  },
+  {
+    "city_town": "Rome",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04963"
+  },
+  {
+    "city_town": "Round Pond",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04564"
+  },
+  {
+    "city_town": "Sabattus",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04280"
+  },
+  {
+    "city_town": "Saco",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04072"
+  },
+  {
+    "city_town": "Salsbury Cove",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04672"
+  },
+  {
+    "city_town": "Sandy Point",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04972"
+  },
+  {
+    "city_town": "Sanford",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04073"
+  },
+  {
+    "city_town": "Scarborough",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04070"
+  },
+  {
+    "city_town": "Scarborough",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04074"
+  },
+  {
+    "city_town": "Searsmont",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04973"
+  },
+  {
+    "city_town": "Searsport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04974"
+  },
+  {
+    "city_town": "Sebago",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04029"
+  },
+  {
+    "city_town": "Sebago Lake",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04075"
+  },
+  {
+    "city_town": "Shawmut",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04975"
+  },
+  {
+    "city_town": "Sidney",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04330"
+  },
+  {
+    "city_town": "Skowhegan",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04976"
+  },
+  {
+    "city_town": "Smithfield",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04978"
+  },
+  {
+    "city_town": "Solon",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04979"
+  },
+  {
+    "city_town": "South Berwick",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "03908"
+  },
+  {
+    "city_town": "South Bristol",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04568"
+  },
+  {
+    "city_town": "South Casco",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04077"
+  },
+  {
+    "city_town": "South Freeport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04078"
+  },
+  {
+    "city_town": "South Gardiner",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04359"
+  },
+  {
+    "city_town": "South Paris",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04281"
+  },
+  {
+    "city_town": "South Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04106"
+  },
+  {
+    "city_town": "South Portland",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04116"
+  },
+  {
+    "city_town": "Southport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04576"
+  },
+  {
+    "city_town": "Southwest Harbor",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04679"
+  },
+  {
+    "city_town": "Springvale",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04083"
+  },
+  {
+    "city_town": "St. Albans",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04971"
+  },
+  {
+    "city_town": "Standish",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04084"
+  },
+  {
+    "city_town": "Steep Falls",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04085"
+  },
+  {
+    "city_town": "Stetson",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04488"
+  },
+  {
+    "city_town": "Stillwater",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04489"
+  },
+  {
+    "city_town": "Stockton Springs",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04981"
+  },
+  {
+    "city_town": "Sullivan",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04664"
+  },
+  {
+    "city_town": "Surry",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04629"
+  },
+  {
+    "city_town": "Surry",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04684"
+  },
+  {
+    "city_town": "Swanville",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04915"
+  },
+  {
+    "city_town": "Sweden",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04040"
+  },
+  {
+    "city_town": "Thorndike",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04986"
+  },
+  {
+    "city_town": "Topsham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04086"
+  },
+  {
+    "city_town": "Trenton",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04605"
+  },
+  {
+    "city_town": "Troy",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04987"
+  },
+  {
+    "city_town": "Union",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04862"
+  },
+  {
+    "city_town": "Unity",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04988"
+  },
+  {
+    "city_town": "Vassalboro",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04989"
+  },
+  {
+    "city_town": "Veazie",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04401"
+  },
+  {
+    "city_town": "Verona Island",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04416"
+  },
+  {
+    "city_town": "Waldo",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04915"
+  },
+  {
+    "city_town": "Walpole",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04573"
+  },
+  {
+    "city_town": "Waterboro",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04087"
+  },
+  {
+    "city_town": "Waterville",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04901"
+  },
+  {
+    "city_town": "Waterville",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04903"
+  },
+  {
+    "city_town": "Wells",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04090"
+  },
+  {
+    "city_town": "West Bath",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04530"
+  },
+  {
+    "city_town": "West Farmington",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04992"
+  },
+  {
+    "city_town": "Westbrook",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04092"
+  },
+  {
+    "city_town": "Westbrook",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04098"
+  },
+  {
+    "city_town": "Westport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04578"
+  },
+  {
+    "city_town": "Whitfield",
+    "oil": false,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04353"
+  },
+  {
+    "city_town": "Windham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04062"
+  },
+  {
+    "city_town": "Windham",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04082"
+  },
+  {
+    "city_town": "Windsor",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04363"
+  },
+  {
+    "city_town": "Winslow",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04901"
+  },
+  {
+    "city_town": "Winterport",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04496"
+  },
+  {
+    "city_town": "Winthrop",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04364"
+  },
+  {
+    "city_town": "Wiscassett",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04578"
+  },
+  {
+    "city_town": "Woolwich",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04579"
+  },
+  {
+    "city_town": "Yarmouth",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "04096"
+  },
+  {
+    "city_town": "York",
+    "oil": true,
+    "propane": true,
+    "state": "ME",
+    "zip_code": "03909"
+  },
+  {
+    "city_town": "Acworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03601"
+  },
+  {
+    "city_town": "Acworth N",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03601"
+  },
+  {
+    "city_town": "Acworth S",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03601"
+  },
+  {
+    "city_town": "Albany",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03818"
+  },
+  {
+    "city_town": "Alexandria",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03222"
+  },
+  {
+    "city_town": "Allenstown",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03275"
+  },
+  {
+    "city_town": "Alstead",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03602"
+  },
+  {
+    "city_town": "Alton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03809"
+  },
+  {
+    "city_town": "Alton Bay",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03810"
+  },
+  {
+    "city_town": "Amherst",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03031"
+  },
+  {
+    "city_town": "Andover",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03216"
+  },
+  {
+    "city_town": "Antrim",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03440"
+  },
+  {
+    "city_town": "Ashland",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03217"
+  },
+  {
+    "city_town": "Atkinson",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03811"
+  },
+  {
+    "city_town": "Auburn",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03032"
+  },
+  {
+    "city_town": "Barnstead",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03218"
+  },
+  {
+    "city_town": "Barrington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03825"
+  },
+  {
+    "city_town": "Bartlett",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03812"
+  },
+  {
+    "city_town": "Bath",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03740"
+  },
+  {
+    "city_town": "Bedford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03110"
+  },
+  {
+    "city_town": "Belmont",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03220"
+  },
+  {
+    "city_town": "Bennington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03442"
+  },
+  {
+    "city_town": "Berlin",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03570"
+  },
+  {
+    "city_town": "Bethlehem",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03574"
+  },
+  {
+    "city_town": "Boscawen",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03303"
+  },
+  {
+    "city_town": "Bow",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03304"
+  },
+  {
+    "city_town": "Bradford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03221"
+  },
+  {
+    "city_town": "Brentwood",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03833"
+  },
+  {
+    "city_town": "Bretton Woods",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03575"
+  },
+  {
+    "city_town": "Bridgewater",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03222"
+  },
+  {
+    "city_town": "Bridgewater",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03264"
+  },
+  {
+    "city_town": "Bristol",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03222"
+  },
+  {
+    "city_town": "Brookfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03872"
+  },
+  {
+    "city_town": "Brookfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03894"
+  },
+  {
+    "city_town": "Brookline",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03033"
+  },
+  {
+    "city_town": "Campton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03223"
+  },
+  {
+    "city_town": "Canaan",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03741"
+  },
+  {
+    "city_town": "Candia",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03034"
+  },
+  {
+    "city_town": "Canterbury",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03224"
+  },
+  {
+    "city_town": "Cape Neddick",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03902"
+  },
+  {
+    "city_town": "Carroll",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03598"
+  },
+  {
+    "city_town": "Center Barnstead",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03225"
+  },
+  {
+    "city_town": "Center Conway",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03813"
+  },
+  {
+    "city_town": "Center Harbor",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03226"
+  },
+  {
+    "city_town": "Center Ossipee",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03814"
+  },
+  {
+    "city_town": "Center Strafford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03815"
+  },
+  {
+    "city_town": "Charlestown",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03603"
+  },
+  {
+    "city_town": "Chester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03036"
+  },
+  {
+    "city_town": "Chichester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03258"
+  },
+  {
+    "city_town": "Chocorua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03817"
+  },
+  {
+    "city_town": "Claremont",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03743"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03299"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03301"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03302"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03303"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03304"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03305"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03307"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03373"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03809"
+  },
+  {
+    "city_town": "Contoocook",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03229"
+  },
+  {
+    "city_town": "Conway",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03818"
+  },
+  {
+    "city_town": "Cornish",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03745"
+  },
+  {
+    "city_town": "Cornish Flat",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03746"
+  },
+  {
+    "city_town": "Croydon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03773"
+  },
+  {
+    "city_town": "Dalton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03598"
+  },
+  {
+    "city_town": "Danbury",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03230"
+  },
+  {
+    "city_town": "Danville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03819"
+  },
+  {
+    "city_town": "Deerfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03037"
+  },
+  {
+    "city_town": "Deering",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03244"
+  },
+  {
+    "city_town": "Derry",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03038"
+  },
+  {
+    "city_town": "Dorchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03266"
+  },
+  {
+    "city_town": "Dorchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03267"
+  },
+  {
+    "city_town": "Dover",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03820"
+  },
+  {
+    "city_town": "Dover",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03821"
+  },
+  {
+    "city_town": "Dover",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03822"
+  },
+  {
+    "city_town": "Drewsville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03604"
+  },
+  {
+    "city_town": "Dublin",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03444"
+  },
+  {
+    "city_town": "Dummer",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03588"
+  },
+  {
+    "city_town": "Dunbarton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03046"
+  },
+  {
+    "city_town": "Durham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03824"
+  },
+  {
+    "city_town": "East Andover",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03231"
+  },
+  {
+    "city_town": "East Hampstead",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03826"
+  },
+  {
+    "city_town": "East Kingston",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03827"
+  },
+  {
+    "city_town": "East Lempster",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03606"
+  },
+  {
+    "city_town": "Easton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03580"
+  },
+  {
+    "city_town": "Easton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03785"
+  },
+  {
+    "city_town": "Eaton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03832"
+  },
+  {
+    "city_town": "Effingham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03882"
+  },
+  {
+    "city_town": "Elkins",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03233"
+  },
+  {
+    "city_town": "Ellsworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03223"
+  },
+  {
+    "city_town": "Ellsworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03266"
+  },
+  {
+    "city_town": "Enfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03748"
+  },
+  {
+    "city_town": "Enfield Center",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03749"
+  },
+  {
+    "city_town": "Epping",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03042"
+  },
+  {
+    "city_town": "Epsom",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03234"
+  },
+  {
+    "city_town": "Epsom Center",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03234"
+  },
+  {
+    "city_town": "Etna",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03750"
+  },
+  {
+    "city_town": "Exeter",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03833"
+  },
+  {
+    "city_town": "Farmington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03835"
+  },
+  {
+    "city_town": "Fitzwilliam",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03447"
+  },
+  {
+    "city_town": "Francestown",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03043"
+  },
+  {
+    "city_town": "Franconia",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03580"
+  },
+  {
+    "city_town": "Franklin",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03235"
+  },
+  {
+    "city_town": "Freedom",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03836"
+  },
+  {
+    "city_town": "Fremont",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03044"
+  },
+  {
+    "city_town": "Georges Mills",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03751"
+  },
+  {
+    "city_town": "Gilford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03247"
+  },
+  {
+    "city_town": "Gilford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03249"
+  },
+  {
+    "city_town": "Gilmanton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03237"
+  },
+  {
+    "city_town": "Gilmanton Iron Works",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03837"
+  },
+  {
+    "city_town": "Gilsum",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03448"
+  },
+  {
+    "city_town": "Glendale",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03838"
+  },
+  {
+    "city_town": "Goffstown",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03043"
+  },
+  {
+    "city_town": "Goffstown",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03045"
+  },
+  {
+    "city_town": "Gonic",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03839"
+  },
+  {
+    "city_town": "Gorham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03581"
+  },
+  {
+    "city_town": "Goshen",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03752"
+  },
+  {
+    "city_town": "Grafton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03240"
+  },
+  {
+    "city_town": "Grange",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03582"
+  },
+  {
+    "city_town": "Grantham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03753"
+  },
+  {
+    "city_town": "Greenfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03047"
+  },
+  {
+    "city_town": "Greenland",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03840"
+  },
+  {
+    "city_town": "Greenville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03048"
+  },
+  {
+    "city_town": "Groton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03241"
+  },
+  {
+    "city_town": "Groton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03266"
+  },
+  {
+    "city_town": "Groveton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03582"
+  },
+  {
+    "city_town": "Guild",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03754"
+  },
+  {
+    "city_town": "Hales Location",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03860"
+  },
+  {
+    "city_town": "Hampstead",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03841"
+  },
+  {
+    "city_town": "Hampton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03842"
+  },
+  {
+    "city_town": "Hampton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03843"
+  },
+  {
+    "city_town": "Hampton Falls",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03844"
+  },
+  {
+    "city_town": "Hancock",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03449"
+  },
+  {
+    "city_town": "Hanover",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03755"
+  },
+  {
+    "city_town": "Harrisville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03450"
+  },
+  {
+    "city_town": "Haverhill",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03700"
+  },
+  {
+    "city_town": "Haverhill",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03733"
+  },
+  {
+    "city_town": "Haverhill",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03765"
+  },
+  {
+    "city_town": "Hebron",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03241"
+  },
+  {
+    "city_town": "Henniker",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03242"
+  },
+  {
+    "city_town": "Hill",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03243"
+  },
+  {
+    "city_town": "Hillsborough",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03244"
+  },
+  {
+    "city_town": "Holderness",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03245"
+  },
+  {
+    "city_town": "Hollis",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03049"
+  },
+  {
+    "city_town": "Hooksett",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03106"
+  },
+  {
+    "city_town": "Hopkinton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03229"
+  },
+  {
+    "city_town": "Hudson",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03051"
+  },
+  {
+    "city_town": "Intervale",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03845"
+  },
+  {
+    "city_town": "Jackson",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03846"
+  },
+  {
+    "city_town": "Jaffrey",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03452"
+  },
+  {
+    "city_town": "Jefferson",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03583"
+  },
+  {
+    "city_town": "Kearsarge",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03847"
+  },
+  {
+    "city_town": "Keene",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03413"
+  },
+  {
+    "city_town": "Keene",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03422"
+  },
+  {
+    "city_town": "Keene",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03431"
+  },
+  {
+    "city_town": "Keene",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03435"
+  },
+  {
+    "city_town": "Kensington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03833"
+  },
+  {
+    "city_town": "Kingston",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03848"
+  },
+  {
+    "city_town": "Laconia",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03204"
+  },
+  {
+    "city_town": "Laconia",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03246"
+  },
+  {
+    "city_town": "Laconia",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03247"
+  },
+  {
+    "city_town": "Laconia",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03248"
+  },
+  {
+    "city_town": "Lancaster",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03584"
+  },
+  {
+    "city_town": "Landaff",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03585"
+  },
+  {
+    "city_town": "Landaff",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03785"
+  },
+  {
+    "city_town": "Langdon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03602"
+  },
+  {
+    "city_town": "Lebanon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03756"
+  },
+  {
+    "city_town": "Lebanon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03766"
+  },
+  {
+    "city_town": "Lee",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "04455"
+  },
+  {
+    "city_town": "Lempster",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03605"
+  },
+  {
+    "city_town": "Lincoln",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03251"
+  },
+  {
+    "city_town": "Lisbon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03585"
+  },
+  {
+    "city_town": "Litchfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03052"
+  },
+  {
+    "city_town": "Littleton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03561"
+  },
+  {
+    "city_town": "Lochmere",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03252"
+  },
+  {
+    "city_town": "Londonderry",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03053"
+  },
+  {
+    "city_town": "Loudon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03307"
+  },
+  {
+    "city_town": "Lyman",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03585"
+  },
+  {
+    "city_town": "Lyme",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03768"
+  },
+  {
+    "city_town": "Lyme Center",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03768"
+  },
+  {
+    "city_town": "Lyme Center",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03769"
+  },
+  {
+    "city_town": "Lyndeborough",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03082"
+  },
+  {
+    "city_town": "Madbury",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03823"
+  },
+  {
+    "city_town": "Madison",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03849"
+  },
+  {
+    "city_town": "Madison",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03875"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03100"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03101"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03102"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03103"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03104"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03109"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03155"
+  },
+  {
+    "city_town": "Marlborough",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03455"
+  },
+  {
+    "city_town": "Marlow",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03456"
+  },
+  {
+    "city_town": "Mason",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03048"
+  },
+  {
+    "city_town": "Meredith",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03253"
+  },
+  {
+    "city_town": "Meriden",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03770"
+  },
+  {
+    "city_town": "Merrimack",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03054"
+  },
+  {
+    "city_town": "Middleton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03887"
+  },
+  {
+    "city_town": "Milan",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03588"
+  },
+  {
+    "city_town": "Milford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03055"
+  },
+  {
+    "city_town": "Milton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03851"
+  },
+  {
+    "city_town": "Milton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03852"
+  },
+  {
+    "city_town": "Milton Mills",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03852"
+  },
+  {
+    "city_town": "Monroe",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03771"
+  },
+  {
+    "city_town": "Moultonboro",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03254"
+  },
+  {
+    "city_town": "Moultonborough",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03254"
+  },
+  {
+    "city_town": "Mount Vernon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03057"
+  },
+  {
+    "city_town": "Munsonville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03457"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03006"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03013"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03025"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03060"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03061"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03062"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03063"
+  },
+  {
+    "city_town": "Nashua",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03064"
+  },
+  {
+    "city_town": "Nelson",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03457"
+  },
+  {
+    "city_town": "New Boston",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03070"
+  },
+  {
+    "city_town": "New Castle",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03854"
+  },
+  {
+    "city_town": "New Durham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03855"
+  },
+  {
+    "city_town": "New Hampton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03256"
+  },
+  {
+    "city_town": "New Ipswich",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03071"
+  },
+  {
+    "city_town": "New London",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03257"
+  },
+  {
+    "city_town": "Newbury",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03255"
+  },
+  {
+    "city_town": "Newfields",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03856"
+  },
+  {
+    "city_town": "Newington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03801"
+  },
+  {
+    "city_town": "Newington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03805"
+  },
+  {
+    "city_town": "Newmarket",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03857"
+  },
+  {
+    "city_town": "Newport",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03773"
+  },
+  {
+    "city_town": "Newton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03858"
+  },
+  {
+    "city_town": "Newton Junction",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03859"
+  },
+  {
+    "city_town": "North Conway",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03860"
+  },
+  {
+    "city_town": "North Hampton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03862"
+  },
+  {
+    "city_town": "North Haverhill",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03774"
+  },
+  {
+    "city_town": "North Sandwich",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03259"
+  },
+  {
+    "city_town": "North Sutton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03260"
+  },
+  {
+    "city_town": "North Walpole",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03609"
+  },
+  {
+    "city_town": "North Woodstock",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03262"
+  },
+  {
+    "city_town": "Northfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03276"
+  },
+  {
+    "city_town": "Northumberland",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03582"
+  },
+  {
+    "city_town": "Northwood",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03261"
+  },
+  {
+    "city_town": "Nottingham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03290"
+  },
+  {
+    "city_town": "Orange",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03741"
+  },
+  {
+    "city_town": "Orford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03776"
+  },
+  {
+    "city_town": "Orford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03777"
+  },
+  {
+    "city_town": "Orford Village",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03777"
+  },
+  {
+    "city_town": "Ossipee",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03864"
+  },
+  {
+    "city_town": "Ossipee",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03891"
+  },
+  {
+    "city_town": "Ossipee",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03892"
+  },
+  {
+    "city_town": "Pelham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03076"
+  },
+  {
+    "city_town": "Pembroke",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03275"
+  },
+  {
+    "city_town": "Penacook",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03303"
+  },
+  {
+    "city_town": "Peterborough",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03458"
+  },
+  {
+    "city_town": "Piermont",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03779"
+  },
+  {
+    "city_town": "Pittsfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03263"
+  },
+  {
+    "city_town": "Plainfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03781"
+  },
+  {
+    "city_town": "Plaistow",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03865"
+  },
+  {
+    "city_town": "Plymouth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03264"
+  },
+  {
+    "city_town": "Portsmouth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03801"
+  },
+  {
+    "city_town": "Portsmouth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03802"
+  },
+  {
+    "city_town": "Portsmouth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03803"
+  },
+  {
+    "city_town": "Portsmouth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03804"
+  },
+  {
+    "city_town": "Randolph",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03593"
+  },
+  {
+    "city_town": "Raymond",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03077"
+  },
+  {
+    "city_town": "Richmond",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03470"
+  },
+  {
+    "city_town": "Rindge",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03461"
+  },
+  {
+    "city_town": "Rochester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03839"
+  },
+  {
+    "city_town": "Rochester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03866"
+  },
+  {
+    "city_town": "Rochester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03867"
+  },
+  {
+    "city_town": "Rochester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03868"
+  },
+  {
+    "city_town": "Rochester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03876"
+  },
+  {
+    "city_town": "Rollinsford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03869"
+  },
+  {
+    "city_town": "Roxbury",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03431"
+  },
+  {
+    "city_town": "Rumney",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03266"
+  },
+  {
+    "city_town": "Rye",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03870"
+  },
+  {
+    "city_town": "Salem",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03079"
+  },
+  {
+    "city_town": "Salisbury",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03268"
+  },
+  {
+    "city_town": "Sanbornton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03269"
+  },
+  {
+    "city_town": "Sanbornville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03872"
+  },
+  {
+    "city_town": "Sandown",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03873"
+  },
+  {
+    "city_town": "Sandwich",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03227"
+  },
+  {
+    "city_town": "Seabrook",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03874"
+  },
+  {
+    "city_town": "Sharon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03458"
+  },
+  {
+    "city_town": "Shelburne",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03581"
+  },
+  {
+    "city_town": "Silver Lake",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03875"
+  },
+  {
+    "city_town": "Smithville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03071"
+  },
+  {
+    "city_town": "Somersworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03878"
+  },
+  {
+    "city_town": "South Acworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03607"
+  },
+  {
+    "city_town": "South Hampton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03827"
+  },
+  {
+    "city_town": "South Sutton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03723"
+  },
+  {
+    "city_town": "South Tamworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03883"
+  },
+  {
+    "city_town": "Springfield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03284"
+  },
+  {
+    "city_town": "Stark",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03582"
+  },
+  {
+    "city_town": "Stoddard",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03457"
+  },
+  {
+    "city_town": "Stoddard",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03464"
+  },
+  {
+    "city_town": "Strafford",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03884"
+  },
+  {
+    "city_town": "Stratham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03885"
+  },
+  {
+    "city_town": "Sugar Hill",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03586"
+  },
+  {
+    "city_town": "Sullivan",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03445"
+  },
+  {
+    "city_town": "Sunapee",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03782"
+  },
+  {
+    "city_town": "Suncook",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03275"
+  },
+  {
+    "city_town": "Surry",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03431"
+  },
+  {
+    "city_town": "Sutton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03273"
+  },
+  {
+    "city_town": "Swanzey",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03446"
+  },
+  {
+    "city_town": "Tamworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03886"
+  },
+  {
+    "city_town": "Temple",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03084"
+  },
+  {
+    "city_town": "Thornton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03223"
+  },
+  {
+    "city_town": "Tilton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03276"
+  },
+  {
+    "city_town": "Tilton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03298"
+  },
+  {
+    "city_town": "Tilton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03299"
+  },
+  {
+    "city_town": "Troy",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03465"
+  },
+  {
+    "city_town": "Tuftonboro",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03816"
+  },
+  {
+    "city_town": "Tuftonboro",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03850"
+  },
+  {
+    "city_town": "Tuftonboro",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03853"
+  },
+  {
+    "city_town": "Tuftonboro",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03894"
+  },
+  {
+    "city_town": "Twin Mountain",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03595"
+  },
+  {
+    "city_town": "Union",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03887"
+  },
+  {
+    "city_town": "Unity",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03603"
+  },
+  {
+    "city_town": "Unity",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03743"
+  },
+  {
+    "city_town": "Unity",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03773"
+  },
+  {
+    "city_town": "Wakefield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03830"
+  },
+  {
+    "city_town": "Wakefield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03872"
+  },
+  {
+    "city_town": "Wakefield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03887"
+  },
+  {
+    "city_town": "Walpole",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03608"
+  },
+  {
+    "city_town": "Walpole",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03634"
+  },
+  {
+    "city_town": "Walpole",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03641"
+  },
+  {
+    "city_town": "Walpole",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03670"
+  },
+  {
+    "city_town": "Walpole",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03675"
+  },
+  {
+    "city_town": "Warner",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03278"
+  },
+  {
+    "city_town": "Warren",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03279"
+  },
+  {
+    "city_town": "Washington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03280"
+  },
+  {
+    "city_town": "Washington",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "05675"
+  },
+  {
+    "city_town": "Waterville Valley",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03215"
+  },
+  {
+    "city_town": "Weare",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03281"
+  },
+  {
+    "city_town": "Webster",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03303"
+  },
+  {
+    "city_town": "Weirs Beach",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03246"
+  },
+  {
+    "city_town": "Weirs Beach",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03247"
+  },
+  {
+    "city_town": "Wentworth",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03282"
+  },
+  {
+    "city_town": "West Franklin - Oil And Kero",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03235"
+  },
+  {
+    "city_town": "West Franklin - Propane",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03235"
+  },
+  {
+    "city_town": "West Lebanon",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03784"
+  },
+  {
+    "city_town": "West Ossipee",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03890"
+  },
+  {
+    "city_town": "Westmoreland",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03467"
+  },
+  {
+    "city_town": "Whitefield",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03598"
+  },
+  {
+    "city_town": "Wilmot",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03287"
+  },
+  {
+    "city_town": "Wilton",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03086"
+  },
+  {
+    "city_town": "Winchester",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03740"
+  },
+  {
+    "city_town": "Windham",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03087"
+  },
+  {
+    "city_town": "Windsor",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03244"
+  },
+  {
+    "city_town": "Winnisquam",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03289"
+  },
+  {
+    "city_town": "Wolfboro",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03894"
+  },
+  {
+    "city_town": "Wonalancet",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03897"
+  },
+  {
+    "city_town": "Woodstock",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03293"
+  },
+  {
+    "city_town": "Woodsville",
+    "oil": true,
+    "propane": true,
+    "state": "NH",
+    "zip_code": "03785"
+  },
+  {
+    "city_town": "Adamant",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05640"
+  },
+  {
+    "city_town": "Andover",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05143"
+  },
+  {
+    "city_town": "Arlington",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05250"
+  },
+  {
+    "city_town": "Ascutney",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05030"
+  },
+  {
+    "city_town": "Athens",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05143"
+  },
+  {
+    "city_town": "Baltimore",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05143"
+  },
+  {
+    "city_town": "Barnard",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05031"
+  },
+  {
+    "city_town": "Barnet",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05821"
+  },
+  {
+    "city_town": "Barre",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05641"
+  },
+  {
+    "city_town": "Barton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05877"
+  },
+  {
+    "city_town": "Bartonsville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05143"
+  },
+  {
+    "city_town": "Bellows Falls",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05101"
+  },
+  {
+    "city_town": "Belmont",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05730"
+  },
+  {
+    "city_town": "Benson",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05731"
+  },
+  {
+    "city_town": "Benton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "03785"
+  },
+  {
+    "city_town": "Berlin",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05602"
+  },
+  {
+    "city_town": "Berlin",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05641"
+  },
+  {
+    "city_town": "Bethel",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05032"
+  },
+  {
+    "city_town": "Between Morgan And Newport",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05854"
+  },
+  {
+    "city_town": "Bomoseen",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05732"
+  },
+  {
+    "city_town": "Bondville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05340"
+  },
+  {
+    "city_town": "Bradford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05033"
+  },
+  {
+    "city_town": "Braintree",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05060"
+  },
+  {
+    "city_town": "Brandon",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05733"
+  },
+  {
+    "city_town": "Brattleboro",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05301"
+  },
+  {
+    "city_town": "Brattleboro",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05302"
+  },
+  {
+    "city_town": "Brattleboro",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05303"
+  },
+  {
+    "city_town": "Brattleboro",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05304"
+  },
+  {
+    "city_town": "Bridgewater",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05034"
+  },
+  {
+    "city_town": "Bridgewater Corners",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05035"
+  },
+  {
+    "city_town": "Brookfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05036"
+  },
+  {
+    "city_town": "Brownington",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05860"
+  },
+  {
+    "city_town": "Brownsville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05037"
+  },
+  {
+    "city_town": "Burke Hollow",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05871"
+  },
+  {
+    "city_town": "Cabot",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05647"
+  },
+  {
+    "city_town": "Calais",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05648"
+  },
+  {
+    "city_town": "Cambridgeport",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05141"
+  },
+  {
+    "city_town": "Canaan",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05903"
+  },
+  {
+    "city_town": "Castleton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05735"
+  },
+  {
+    "city_town": "Cavendish",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05142"
+  },
+  {
+    "city_town": "Center Randolph",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05060"
+  },
+  {
+    "city_town": "Center Rutland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05736"
+  },
+  {
+    "city_town": "Chelsea",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05038"
+  },
+  {
+    "city_town": "Chester",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05143"
+  },
+  {
+    "city_town": "Chester",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05144"
+  },
+  {
+    "city_town": "Chester Depot",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05144"
+  },
+  {
+    "city_town": "Chippenhook",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05777"
+  },
+  {
+    "city_town": "Chittenden",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05737"
+  },
+  {
+    "city_town": "Clarendon",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05759"
+  },
+  {
+    "city_town": "Concord",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05824"
+  },
+  {
+    "city_town": "Corinth",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05039"
+  },
+  {
+    "city_town": "Coventry",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05825"
+  },
+  {
+    "city_town": "Cuttingsville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05738"
+  },
+  {
+    "city_town": "Danby",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05739"
+  },
+  {
+    "city_town": "Danville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05828"
+  },
+  {
+    "city_town": "Derby",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05829"
+  },
+  {
+    "city_town": "Dorset",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05251"
+  },
+  {
+    "city_town": "Dummerston",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05301"
+  },
+  {
+    "city_town": "Duxbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05676"
+  },
+  {
+    "city_town": "East Barre",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05649"
+  },
+  {
+    "city_town": "East Burke",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05832"
+  },
+  {
+    "city_town": "East Calais",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05640"
+  },
+  {
+    "city_town": "East Calais",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05650"
+  },
+  {
+    "city_town": "East Charleston",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05833"
+  },
+  {
+    "city_town": "East Corinth",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05040"
+  },
+  {
+    "city_town": "East Dorset",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05253"
+  },
+  {
+    "city_town": "East Haven",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05837"
+  },
+  {
+    "city_town": "East Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05651"
+  },
+  {
+    "city_town": "East Orange",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05086"
+  },
+  {
+    "city_town": "East Poultney",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05741"
+  },
+  {
+    "city_town": "East Randolph",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05041"
+  },
+  {
+    "city_town": "East Saint Johnsbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05838"
+  },
+  {
+    "city_town": "East Thetford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05043"
+  },
+  {
+    "city_town": "East Wallingford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05742"
+  },
+  {
+    "city_town": "Ely",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05045"
+  },
+  {
+    "city_town": "Fair Haven",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05743"
+  },
+  {
+    "city_town": "Fairlee",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05045"
+  },
+  {
+    "city_town": "Fayston",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05673"
+  },
+  {
+    "city_town": "Florence",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05744"
+  },
+  {
+    "city_town": "Forest Dale",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05745"
+  },
+  {
+    "city_town": "Gassetts",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05144"
+  },
+  {
+    "city_town": "Gaysville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05746"
+  },
+  {
+    "city_town": "Gilman",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05904"
+  },
+  {
+    "city_town": "Glover",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05839"
+  },
+  {
+    "city_town": "Goshen",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05733"
+  },
+  {
+    "city_town": "Grafton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05146"
+  },
+  {
+    "city_town": "Graniteville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05654"
+  },
+  {
+    "city_town": "Granitville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05747"
+  },
+  {
+    "city_town": "Groton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05046"
+  },
+  {
+    "city_town": "Hancock",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05748"
+  },
+  {
+    "city_town": "Hardwick",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05843"
+  },
+  {
+    "city_town": "Hartford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05047"
+  },
+  {
+    "city_town": "Hartland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05048"
+  },
+  {
+    "city_town": "Hartland Four Corners",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05048"
+  },
+  {
+    "city_town": "Hartland Four Corners",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05049"
+  },
+  {
+    "city_town": "Healdville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05758"
+  },
+  {
+    "city_town": "Holland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05830"
+  },
+  {
+    "city_town": "Hortonville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05758"
+  },
+  {
+    "city_town": "Hubbardton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05735"
+  },
+  {
+    "city_town": "Hyde Park",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05655"
+  },
+  {
+    "city_town": "Hydeville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05750"
+  },
+  {
+    "city_town": "Intervale",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05845"
+  },
+  {
+    "city_town": "Ira",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05777"
+  },
+  {
+    "city_town": "Island Pond",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05846"
+  },
+  {
+    "city_town": "Jamaica",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05343"
+  },
+  {
+    "city_town": "Killington",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05751"
+  },
+  {
+    "city_town": "Lake Elmore",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05657"
+  },
+  {
+    "city_town": "Landgrove",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05148"
+  },
+  {
+    "city_town": "Leicester",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05733"
+  },
+  {
+    "city_town": "Lemington",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05903"
+  },
+  {
+    "city_town": "Londonderry",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05148"
+  },
+  {
+    "city_town": "Ludlow",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05149"
+  },
+  {
+    "city_town": "Lyndon",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05849"
+  },
+  {
+    "city_town": "Lyndon Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05850"
+  },
+  {
+    "city_town": "Lyndonville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05851"
+  },
+  {
+    "city_town": "Lynenburg",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05906"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05254"
+  },
+  {
+    "city_town": "Manchester",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05255"
+  },
+  {
+    "city_town": "Manchester Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05254"
+  },
+  {
+    "city_town": "Manchester Village",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05254"
+  },
+  {
+    "city_town": "Marshfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05658"
+  },
+  {
+    "city_town": "Mcindoe Falls",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05050"
+  },
+  {
+    "city_town": "Mendon",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05701"
+  },
+  {
+    "city_town": "Middle Town Springs",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05757"
+  },
+  {
+    "city_town": "Middlesex",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05602"
+  },
+  {
+    "city_town": "Middlesex Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05602"
+  },
+  {
+    "city_town": "Middleton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05143"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05600"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05601"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05602"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05603"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05604"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05609"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05620"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05629"
+  },
+  {
+    "city_town": "Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05633"
+  },
+  {
+    "city_town": "Moretown",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05660"
+  },
+  {
+    "city_town": "Morgan",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05853"
+  },
+  {
+    "city_town": "Morgan",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05893"
+  },
+  {
+    "city_town": "Morrisville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05661"
+  },
+  {
+    "city_town": "Mount Holly",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05758"
+  },
+  {
+    "city_town": "Mount Tabor",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05739"
+  },
+  {
+    "city_town": "Mt Holly",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05758"
+  },
+  {
+    "city_town": "Near Barre",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05644"
+  },
+  {
+    "city_town": "Near Barton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05880"
+  },
+  {
+    "city_town": "Near West Glover",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05877"
+  },
+  {
+    "city_town": "Near West Glover",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05880"
+  },
+  {
+    "city_town": "Newark",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05871"
+  },
+  {
+    "city_town": "Newbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05051"
+  },
+  {
+    "city_town": "Newfane",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05345"
+  },
+  {
+    "city_town": "Newport",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05855"
+  },
+  {
+    "city_town": "Newport",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05857"
+  },
+  {
+    "city_town": "North Concord",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05858"
+  },
+  {
+    "city_town": "North Hartland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05052"
+  },
+  {
+    "city_town": "North Middlesex",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05682"
+  },
+  {
+    "city_town": "North Montpelier",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05666"
+  },
+  {
+    "city_town": "North Pomfret",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05053"
+  },
+  {
+    "city_town": "North Randolph",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05041"
+  },
+  {
+    "city_town": "North Springfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05150"
+  },
+  {
+    "city_town": "North Thetford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05054"
+  },
+  {
+    "city_town": "Northfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05663"
+  },
+  {
+    "city_town": "Northfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05664"
+  },
+  {
+    "city_town": "Norton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05907"
+  },
+  {
+    "city_town": "Norwich",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05055"
+  },
+  {
+    "city_town": "Orange",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05641"
+  },
+  {
+    "city_town": "Orange",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05644"
+  },
+  {
+    "city_town": "Passumpsic",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05861"
+  },
+  {
+    "city_town": "Pawlet",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05761"
+  },
+  {
+    "city_town": "Peacham",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05862"
+  },
+  {
+    "city_town": "Perkinsville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05151"
+  },
+  {
+    "city_town": "Peru",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05152"
+  },
+  {
+    "city_town": "Pittsfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05762"
+  },
+  {
+    "city_town": "Pittsford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05763"
+  },
+  {
+    "city_town": "Plainfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05650"
+  },
+  {
+    "city_town": "Plainfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05667"
+  },
+  {
+    "city_town": "Plymouth",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05056"
+  },
+  {
+    "city_town": "Pomfret",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05053"
+  },
+  {
+    "city_town": "Post Mills",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05058"
+  },
+  {
+    "city_town": "Poultney",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05764"
+  },
+  {
+    "city_town": "Proctor",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05765"
+  },
+  {
+    "city_town": "Proctorsville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05153"
+  },
+  {
+    "city_town": "Putney",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05346"
+  },
+  {
+    "city_town": "Quechee",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05059"
+  },
+  {
+    "city_town": "Randolph",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05060"
+  },
+  {
+    "city_town": "Randolph Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05061"
+  },
+  {
+    "city_town": "Rawsonville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05155"
+  },
+  {
+    "city_town": "Reading",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05062"
+  },
+  {
+    "city_town": "Riverton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05663"
+  },
+  {
+    "city_town": "Rockingham",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05101"
+  },
+  {
+    "city_town": "Roxbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05669"
+  },
+  {
+    "city_town": "Royalton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05068"
+  },
+  {
+    "city_town": "Rupert",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05768"
+  },
+  {
+    "city_town": "Rutland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05701"
+  },
+  {
+    "city_town": "Rutland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05709"
+  },
+  {
+    "city_town": "Rutland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05723"
+  },
+  {
+    "city_town": "Ryegate",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05042"
+  },
+  {
+    "city_town": "Saint Johnsbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05819"
+  },
+  {
+    "city_town": "Saint Johnsbury Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05863"
+  },
+  {
+    "city_town": "Sandgate",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05250"
+  },
+  {
+    "city_town": "Saxtons River",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05154"
+  },
+  {
+    "city_town": "Shaftsbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05262"
+  },
+  {
+    "city_town": "Sharon",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05065"
+  },
+  {
+    "city_town": "Sheffield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05866"
+  },
+  {
+    "city_town": "Shrewsbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05738"
+  },
+  {
+    "city_town": "South Barre",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05670"
+  },
+  {
+    "city_town": "South Londonderry",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05155"
+  },
+  {
+    "city_town": "South Newfane",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05351"
+  },
+  {
+    "city_town": "South Pomfret",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05067"
+  },
+  {
+    "city_town": "South Royalton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05068"
+  },
+  {
+    "city_town": "South Strafford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05070"
+  },
+  {
+    "city_town": "South Wheelock",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05851"
+  },
+  {
+    "city_town": "South Woodbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05681"
+  },
+  {
+    "city_town": "South Woodstock",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05071"
+  },
+  {
+    "city_town": "Springfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05156"
+  },
+  {
+    "city_town": "St. Johnsbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05819"
+  },
+  {
+    "city_town": "Stockbridge",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05772"
+  },
+  {
+    "city_town": "Stowe",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05672"
+  },
+  {
+    "city_town": "Strafford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05072"
+  },
+  {
+    "city_town": "Stratton Mountain",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05155"
+  },
+  {
+    "city_town": "Sudbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05733"
+  },
+  {
+    "city_town": "Sunderland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05250"
+  },
+  {
+    "city_town": "Sunderland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05252"
+  },
+  {
+    "city_town": "Sutton",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05867"
+  },
+  {
+    "city_town": "Taftsville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05073"
+  },
+  {
+    "city_town": "Thetford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05074"
+  },
+  {
+    "city_town": "Thetford Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05074"
+  },
+  {
+    "city_town": "Thetford Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05075"
+  },
+  {
+    "city_town": "Tinmouth",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05773"
+  },
+  {
+    "city_town": "Topsham",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05076"
+  },
+  {
+    "city_town": "Townsend",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05353"
+  },
+  {
+    "city_town": "Tunbridge",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05077"
+  },
+  {
+    "city_town": "Tyson",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05149"
+  },
+  {
+    "city_town": "Vershire",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05079"
+  },
+  {
+    "city_town": "Victory",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05858"
+  },
+  {
+    "city_town": "Waitsfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05673"
+  },
+  {
+    "city_town": "Walden",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05873"
+  },
+  {
+    "city_town": "Wallingford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05773"
+  },
+  {
+    "city_town": "Wardsboro",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05355"
+  },
+  {
+    "city_town": "Warren",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05674"
+  },
+  {
+    "city_town": "Washington",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05675"
+  },
+  {
+    "city_town": "Waterbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05671"
+  },
+  {
+    "city_town": "Waterbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05676"
+  },
+  {
+    "city_town": "Waterbury Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05671"
+  },
+  {
+    "city_town": "Waterbury Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05676"
+  },
+  {
+    "city_town": "Waterbury Center",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05677"
+  },
+  {
+    "city_town": "Waterford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05819"
+  },
+  {
+    "city_town": "Weathersfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05151"
+  },
+  {
+    "city_town": "Weathersfield",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05156"
+  },
+  {
+    "city_town": "Websterville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05678"
+  },
+  {
+    "city_town": "Wells",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05774"
+  },
+  {
+    "city_town": "Wells River",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05081"
+  },
+  {
+    "city_town": "West Berlin",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05663"
+  },
+  {
+    "city_town": "West Burke",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05871"
+  },
+  {
+    "city_town": "West Charleston",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05872"
+  },
+  {
+    "city_town": "West Danville",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05873"
+  },
+  {
+    "city_town": "West Dummerston",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05357"
+  },
+  {
+    "city_town": "West Fairlee",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05080"
+  },
+  {
+    "city_town": "West Fairlee",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05083"
+  },
+  {
+    "city_town": "West Hartford",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05084"
+  },
+  {
+    "city_town": "West Haven",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05743"
+  },
+  {
+    "city_town": "West Pawlet",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05775"
+  },
+  {
+    "city_town": "West Rupert",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05776"
+  },
+  {
+    "city_town": "West Rutland",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05777"
+  },
+  {
+    "city_town": "West Topsham",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05086"
+  },
+  {
+    "city_town": "West Townsend",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05353"
+  },
+  {
+    "city_town": "West Townshend",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05359"
+  },
+  {
+    "city_town": "West Wardsboro",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05355"
+  },
+  {
+    "city_town": "West Wardsboro",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05360"
+  },
+  {
+    "city_town": "Westhaven",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05743"
+  },
+  {
+    "city_town": "Westminster",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05158"
+  },
+  {
+    "city_town": "Westminster Station",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05159"
+  },
+  {
+    "city_town": "Westmore",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05822"
+  },
+  {
+    "city_town": "Westmore",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05860"
+  },
+  {
+    "city_town": "Weston",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05161"
+  },
+  {
+    "city_town": "White River Junction",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05001"
+  },
+  {
+    "city_town": "White River Junction",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05002"
+  },
+  {
+    "city_town": "White River Junction",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05005"
+  },
+  {
+    "city_town": "White River Junction",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05009"
+  },
+  {
+    "city_town": "White River Junction",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05011"
+  },
+  {
+    "city_town": "Wilder",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05088"
+  },
+  {
+    "city_town": "Williamstown",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05679"
+  },
+  {
+    "city_town": "Windham",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05359"
+  },
+  {
+    "city_town": "Windsor",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05089"
+  },
+  {
+    "city_town": "Winhall",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05340"
+  },
+  {
+    "city_town": "Wolcott",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05680"
+  },
+  {
+    "city_town": "Woodbury",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05681"
+  },
+  {
+    "city_town": "Woodstock",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05091"
+  },
+  {
+    "city_town": "Worcester",
+    "oil": true,
+    "propane": true,
+    "state": "VT",
+    "zip_code": "05682"
+  }
+]
